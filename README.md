@@ -1,5 +1,4 @@
 # TREE TRUNK DETECTOR
-![image](https://github.com/user-attachments/assets/627217b6-292e-4656-941d-ac4661284d03)
 Tree Trunk Detector adalah sebuah program yang bertujuan untuk menghitung jumlah tumpukan kayu yang sangat banyak. Hal ini dapat mempermudah perusahaan menghitung jumlah kayu. Tujuan dari pengembangan sistem deteksi kayu pohon adalah memberikan solusi dalam mengatasi permasalahan pemantauan jumlah pohon pada tahap pengumpulan bahan baku. Dengan memanfaatkan teknologi deteksi visual, sistem ini bertujuan untuk menggantikan metode perhitungan manual yang rentan terhadap kesalahan dan memakan waktu. Dengan kemampuan mendeteksi jumlah batang pohon secara otomatis, aplikasi ini diharapkan dapat memberikan informasi yang cepat, akurat, dan reliabel kepada para pekerja industri produksi kertas dan sektor industri lainnya yang memiliki kebutuhan serupa, mendorong adopsi teknologi yang lebih efisien dan inovatif dalam proses mereka. 
 
 
@@ -20,3 +19,5 @@ Tools yang akan digunakan adalah matlab yang menghasilkan sebuah program dengan 
 6. Menampilkan hasil
    Lingkar kayu yang berhasil dideteksi diberi tanda dengan viscircle (lingkaran warna merah) kemudian ditampilkan dan jumlah lingkaran yang terdeteksi ditampilkan di layar.
 
+# Demo
+![image](https://github.com/user-attachments/assets/627217b6-292e-4656-941d-ac4661284d03)
